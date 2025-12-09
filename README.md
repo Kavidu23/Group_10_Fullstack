@@ -12,3 +12,4 @@ Here are the results:
 | 🟢 **Samudi** | ✅ Contribution Verified |
 | 🟢 **Kavidu** | ✅ Contribution Verified |
 | 🟢 **Ladini** | ✅ Contribution Verified |
+| 🟢 **Malki**  | ✅ Contribution Verified |
