@@ -13,3 +13,4 @@ Here are the results:
 | 🟢 **Kavidu** | ✅ Contribution Verified |
 | 🟢 **Ladini** | ✅ Contribution Verified |
 | 🟢 **Malki**  | ✅ Contribution Verified |
+| 🟢 **Dulakshi**  | ✅ Contribution Verified |
