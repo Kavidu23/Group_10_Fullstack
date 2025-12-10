@@ -14,3 +14,4 @@ Here are the results:
 | 🟢 **Ladini** | ✅ Contribution Verified |
 | 🟢 **Malki**  | ✅ Contribution Verified |
 | 🟢 **Dulakshi**  | ✅ Contribution Verified |
+| 🟢 **Ravidu**  | ✅ Contribution Verified |
